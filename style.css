@@ -11,6 +11,11 @@
 .new {
   color: #4CAF50;
 }
+
+.cool {
+  color: #2196F3;
+}
+
 #darktoggle {
   position: absolute;
   right: 0px;
